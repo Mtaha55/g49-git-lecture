@@ -1,1 +1,1 @@
-Some files is hidden. .getignor
+Some files is hidden. .gitignore
